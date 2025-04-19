@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Build files
+android/app/build/
+ios/build/
+ios/Pods/
+
+# IDE files
+.vscode/
+*.xcworkspace
